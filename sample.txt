@@ -1,0 +1,52 @@
+SDLC:
+===============
+-> A life cycle simply describes the methods we use to make a software product through its stages.
+-> It usually maps out various activites performed on a software product from start to end.
+-> when a product is developing, It is important to have a clear understanding between about the steps and methods to be followed.
+-> Stages in SDLC:
+    Requirement analysis->Defining->Designing->	coding->Testing->Deployment->Maintanence
+
+
+AGILE:
+==================
+-> It is an iterative approach to software developement.
+-> Generally it takes short period of time to make minor changes by delivering faster.
+-> It takes feedback at the end of each iteration until the final product is made successfully.
+-> By using agile methodology, continous delivery and development is possible.
+-> Here, we can get the clear understanding of requirements and can be changed later.
+-> In agile, the product development is divided and performed in the form of sprints.
+-> Agile primarily has two central units:
+				1. Release
+				2. Iteration
+-> Here, The project gets divided into flexible and transperent iterations.
+
+Disadvantages:
+-----------------
+1. The estimation of cost may get difficult due to constant iteration.
+2. Version controlling is not possible here.
+3. The development team should be hihly professional.
+
+Agile Tools:
+-----------------
+1. JIRA
+2. ClickUp
+3. GitHub
+4. LeanKit
+5. Planbox
+
+
+DevOps:
+====================
+-> DevOps is a combination of two words : Development & Operations, where a single team can handle the entire application life cycle.
+-> With the help of DevOps, Quality & Speed of application delivery has improved to a great extent.
+-> DevOps architecture features:
+			1. Automation
+			2. Collaboration
+			3. Integration
+			4. Configuration Management
+-> It responds faster to market changes and improve business growth.
+
+hello..
+
+
+
